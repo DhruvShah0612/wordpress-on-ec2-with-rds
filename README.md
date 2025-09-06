@@ -156,3 +156,4 @@ Open your browser:
 ---
 
 **🎉 Your WordPress site is now running on EC2 with a managed MySQL database on AWS RDS!**
+![RDS Deletion Error](wordpress.png)
